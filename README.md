@@ -1,6 +1,6 @@
 ### About me
 
-<h1 align="left">Hi 👋, I'm Hagjoon Lee, a developer who wants to code without pain.</h1>
+<h1 align="center">Hi 👋, I'm Hagjoon Lee, a developer who wants to code without pain.</h1>
 <h3 align="left">No pain, No gain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leehagjoon&label=Profile%20views&color=4185af&style=flat" alt="leehagjoon" /> </p>
