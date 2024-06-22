@@ -4,9 +4,6 @@
 <h3 align="left">No pain, No gain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leehagjoon&label=Profile%20views&color=4185af&style=flat" alt="leehagjoon" /> </p>
-
-- 📝 I regularly write articles on [https://blog.naver.com/leeguma_](https://blog.naver.com/leeguma_)
-
 - 📫 How to reach me **lee9803181@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
