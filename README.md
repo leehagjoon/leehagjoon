@@ -1,7 +1,7 @@
 ### About me
 
-<h1 align="left">Hi 👋, I'm Hagjoon Lee, a developer playing soccer</h1>
-<h3 align="left">No pain, No gain</h3>
+<h1 align="left">축구 코치 -> 백엔드 개발자 -> 쉐프 -> 데이터 분석가
+<h3 align="left">좌우명 : No pain, No gain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leehagjoon&label=Profile%20views&color=4185af&style=flat" alt="leehagjoon" /> </p>
 - 📫 How to reach me **lee9803181@gmail.com**
