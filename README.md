@@ -22,8 +22,4 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leehagjoon&show_icons=true&locale=en&layout=compact" alt="leehagjoon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leehagjoon&show_icons=true&theme=dracula&title_color=c39ef0&text_color=925ef3&locale=en" alt="leehagjoon" /></p>
-
 
